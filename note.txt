@@ -1,0 +1,5 @@
+## Git Tryout ##
+created a git Repo to Check my knowledge on using the Git/Github Version Conntrol 
+## I used the command "git init" to initialize git on my created directory,
+## Use "git add ."  to add all file to the ". git" folder on the directory; then i used the 'git commit -m "message"' to commit the files
+ 
