@@ -2,4 +2,5 @@
 created a git Repo to Check my knowledge on using the Git/Github Version Conntrol 
 ## I used the command "git init" to initialize git on my created directory,
 ## Use "git add ."  to add all file to the ". git" folder on the directory; then i used the 'git commit -m "message"' to commit the files
- 
+   ## Used the "git branch FILENAME" to create a branch in the file on . git entered the branch with "git checkout FILENAME" 
+then i merge the branch with the "git merge main" command after which i deleted the branch with git branch deleted    
